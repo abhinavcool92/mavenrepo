@@ -37,11 +37,4 @@
             <url>http://10.128.0.10:8081/repository/student-snap/</url>
         </snapshotRepository>
     </distributionManagement>
-  <dependencies>
-  	<dependency>
-  		<groupId>javax.servlet</groupId>
-  		<artifactId>javax.servlet-api</artifactId>
-  		<version>3.0.1</version>
-  	</dependency>
-  </dependencies>
-</project>
+  </project>
